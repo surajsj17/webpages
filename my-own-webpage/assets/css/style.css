@@ -1906,14 +1906,15 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 }
 .txtant {
-  font-family: Arial, sans-serif;
+  font-family:oblique;
   
 
   font-weight: bold;
  
-  text-shadow: 0 0 10px #fff, 0 0 20px #b8e906, 0 0 30px #c3ec0d, 0 0 40px #ff0080, 0 0 70px #ff0080, 0 0 80px #ff0080, 0 0 100px #ff0080, 0 0 150px #ff0080;
-  animation: neon 1s ease-in-out infinite alternate;
-}
+} 
+/**text-shadow: 0 0 10px #fff, 0 0 20px #b8e906, 0 0 30px #c3ec0d, 0 0 40px #ff0080, 0 0 70px #ff0080, 0 0 80px #ff0080, 0 0 100px #ff0080, 0 0 150px #ff0080;
+  animation: neon 1s ease-in-out infinite alternate; **/
+
 
 @keyframes neon {
   from {
